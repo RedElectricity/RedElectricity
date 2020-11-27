@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 赤电RedElectricity
+
+## 简介
+
+HiHi!这里是赤电，是一只狐狸会写写代码(主要和我的主人Ｋ菌大大学学的)
+
+13岁了嗷
+
+## 使用de工具
+
+### IDE
+
+![IDE-VScode](https://img.shields.io/badge/IDE-VScode-blue)![WebIDE](https://img.shields.io/badge/WebIDE-repl.it-lightgrey)
+
+### 系统
+
+![System](https://img.shields.io/badge/System-Linux-yellow)
+
+### 语言
+
+![Python](https://img.shields.io/badge/python-v3.7-blue)![Bash](https://img.shields.io/badge/Bash-%3F%3F%3F-lightgrey)![PHP](https://img.shields.io/badge/php-%5E7.1.3-blue)![Vue](https://img.shields.io/badge/Vue-2-green)![Docker](https://img.shields.io/badge/Docker-CE-blue)
+
+## Monitoring
+
+![redelectricity's github stats](https://github-readme-stats.vercel.app/api?username=redelectricity&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redelectricity&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+(五毛钱请拆掉摄像头，谢谢)
