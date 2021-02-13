@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ## 简介
 
-HiHi!这里是赤电，是一只狐狸会写写代码(主要和我的主人Ｋ菌大大学学的)
-
+HiHi!这里是赤电，是一只狐狸会写写代码
 13岁了嗷
 
 ## 使用de工具
