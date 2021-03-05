@@ -25,7 +25,7 @@ HiHi!这里是赤电，是一只狐狸会写写代码
 
 ### IDE
 
-![IDE-VScode](https://img.shields.io/badge/IDE-VScode-blue)![WebIDE](https://img.shields.io/badge/WebIDE-repl.it-lightgrey)
+![IDE-VScode](https://img.shields.io/badge/IDE-VScode-blue)  ![WebIDE](https://img.shields.io/badge/WebIDE-repl.it-lightgrey)
 
 ### 系统
 
@@ -33,7 +33,7 @@ HiHi!这里是赤电，是一只狐狸会写写代码
 
 ### 语言
 
-![Python](https://img.shields.io/badge/python-v3.7-blue)![Bash](https://img.shields.io/badge/Bash-%3F%3F%3F-lightgrey)![PHP](https://img.shields.io/badge/php-%5E7.1.3-blue)![Vue](https://img.shields.io/badge/Vue-2-green)![Docker](https://img.shields.io/badge/Docker-CE-blue)
+![Python](https://img.shields.io/badge/python-v3.9.1-blue)  ![Bash](https://img.shields.io/badge/Bash-%3F%3F%3F-lightgrey)  ![PHP](https://img.shields.io/badge/php-%5E7.1.3-blue)  ![Vue](https://img.shields.io/badge/Vue-2-green)  ![Docker](https://img.shields.io/badge/Docker-CE-blue)
 
 ## Monitoring
 
