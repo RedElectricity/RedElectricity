@@ -36,5 +36,9 @@ BMS 四段 带FIVE
 
 ## Contact
 QQ: ~~[Data Delete]~~
+
 Telegram: @RedElectricity
+
 Email: redelectricity@outlook.com
+
+Discord Server: [赤电的小屋](https://discord.gg/CkvmKSwzAf)
