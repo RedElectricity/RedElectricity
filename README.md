@@ -39,6 +39,12 @@ QQ: ~~[Data Delete]~~
 
 Telegram: @RedElectricity
 
-Email: redelectricity@outlook.com
+Email: redelectricity@outlook.com & ~nildeveloper@dxmn.org~
 
 Discord Server: [赤电的小屋](https://discord.gg/CkvmKSwzAf)
+
+## Donate ME
+
+爱发电: https://afdian.net/@RedElectricity
+
+BitCoin: 3DvBrgLG9Qyti5SN6ghDG2sgCaShLf9nwP
