@@ -47,4 +47,4 @@ Discord Server: [赤电的小屋](https://discord.gg/CkvmKSwzAf)
 
 爱发电: https://afdian.net/@RedElectricity
 
-BitCoin: 3DvBrgLG9Qyti5SN6ghDG2sgCaShLf9nwP
+BitCoin: `1AchMNCu15UppBjngCfxgbLNGD1jzzhUCr`(说实话真的会用人用嘛)
