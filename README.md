@@ -1,28 +1,34 @@
 # 赤电RedElectricity
 
-
-
 ## 简介
 
-HiHi!这里是赤电，是一只狐狸会写写代码 14岁了嗷
+> Is what defined US?
 
 ## Skill
 
 ### IDE
 
-![IDE-VScode](https://img.shields.io/badge/IDE-VScode-blue)  ![WebIDE](https://img.shields.io/badge/WebIDE-repl.it-lightgrey)
+![IDE-VScode](https://img.shields.io/badge/IDE-VScode-blue)  ![WebIDE](https://img.shields.io/badge/WebIDE-repl.it-lightgrey) ![JetBrains](https://img.shields.io/badge/JetBrains-IDE-blue)
 
 ### System
 
-![System](https://img.shields.io/badge/System-Linux-yellow)
+![System](https://img.shields.io/badge/System-Linux-yellow) ![System](https://img.shields.io/badge/System-Windows-blue)
 
 ### Language
 
-![Python](https://img.shields.io/badge/python-v3.9.5-blue)  ![Bash](https://img.shields.io/badge/Bash-%3F%3F%3F-lightgrey)  ![Docker](https://img.shields.io/badge/Docker-CE-blue)  ![Rust](https://img.shields.io/badge/Rust-nightly-red)  ![Golang](https://img.shields.io/badge/Go-1.16-blud) 
+![Python](https://img.shields.io/badge/python-v3.9.5-blue)  ![Bash](https://img.shields.io/badge/Bash-%3F%3F%3F-lightgrey)  ![Docker](https://img.shields.io/badge/Docker-CE-blue)  ![Rust](https://img.shields.io/badge/Rust-nightly-red)  ![Golang](https://img.shields.io/badge/Go-1.16-blud) ![Lua](https://img.shields.io/badge/Lua-JIT-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-3-yellow)
 
 ### Game
 
 BMS 四段 带FIVE
+
+Muse Dash Lv.495
+
+### Hobbies
+
+> 多 才 多 艺 的 R E ( 其实就是闲着无聊去学的
+
+Ballet • Calligraphy • Writting 
 
 ## Monitoring
 
