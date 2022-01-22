@@ -4,6 +4,10 @@
 
 > Is what defined US?
 
+> Q:为什么你comment这么少啊
+> A:因为没网comment啊
+> 没网的日子,好~无~聊~
+
 ## Skill
 
 ### IDE
@@ -18,17 +22,31 @@
 
 ![Python](https://img.shields.io/badge/python-v3.9.5-blue)  ![Bash](https://img.shields.io/badge/Bash-%3F%3F%3F-lightgrey)  ![Docker](https://img.shields.io/badge/Docker-CE-blue)  ![Rust](https://img.shields.io/badge/Rust-nightly-red)  ![Golang](https://img.shields.io/badge/Go-1.16-blud) ![Lua](https://img.shields.io/badge/Lua-JIT-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-3-yellow)
 
+### Devices
+
+Coding with `Lenovo 小新 14 AIR AMD Version` (AMD YES
+
+Listen the Music with `Song Walkman A105`
+
+使用`Windows`+`Linux` 进行开发
+
 ### Game
 
-BMS 四段 带FIVE
+BMS 四段 带FIVE https://www.gaftalk.com/minir/#/viewer/user/71504ca2-ea3b-4bd7-861c-5c8d5dc2e59c)
 
-Muse Dash Lv.495
+Muse Dash Lv.500+
 
 ### Hobbies
 
 > 多 才 多 艺 的 R E ( 其实就是闲着无聊去学的
 
 Ballet • Calligraphy • Writting 
+
+### Want to study
+ - Make Music
+ - Draw
+ - Hardware
+ - DeepLearning•Network
 
 ## Monitoring
 
@@ -53,4 +71,4 @@ Discord Server: [赤电的小屋](https://discord.gg/CkvmKSwzAf)
 
 爱发电: https://afdian.net/@RedElectricity
 
-BitCoin: `1AchMNCu15UppBjngCfxgbLNGD1jzzhUCr`(说实话真的会用人用嘛)
+BitCoin: NONE
