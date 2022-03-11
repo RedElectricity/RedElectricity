@@ -36,7 +36,7 @@ Listen the Music with `Song Walkman A105`
 
 ### Game
 
-BMS 六段 带FIVE https://www.gaftalk.com/minir/#/viewer/user/71504ca2-ea3b-4bd7-861c-5c8d5dc2e59c)
+BMS 六段 带FIVE [Minir](https://www.gaftalk.com/minir/#/viewer/user/71504ca2-ea3b-4bd7-861c-5c8d5dc2e59c)
 
 Muse Dash Lv.500+
 
