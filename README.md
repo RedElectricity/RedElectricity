@@ -1,6 +1,6 @@
 # 赤电RedElectricity
 
-## 简介
+<!--## 简介
 
 > # 是初三废物!不是什么大佬!
 
@@ -81,4 +81,6 @@ Discord Server: [赤电的小屋](https://discord.gg/CkvmKSwzAf)
 
 爱发电: https://afdian.net/@RedElectricity
 
-BitCoin: NONE
+BitCoin: NONE-->
+
+> # ![UVA(S$5Y``1(1D{NL3GA{06](https://user-images.githubusercontent.com/75127571/157818098-684dc05d-57cb-4746-bb87-958b5080ab1d.png)我什么都不会
