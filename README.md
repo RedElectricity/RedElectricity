@@ -4,6 +4,8 @@
 
 > # 是初三废物!不是什么大佬!
 
+> # ![UVA(S$5Y``1(1D{NL3GA{06](https://user-images.githubusercontent.com/75127571/157818098-684dc05d-57cb-4746-bb87-958b5080ab1d.png)我什么都不会
+
 > Is what defined US?
 
 > Q:为什么你comment这么少啊
@@ -23,6 +25,10 @@
 ![System](https://img.shields.io/badge/System-Linux-yellow) ![System](https://img.shields.io/badge/System-Windows-blue)
 
 ### Language
+
+![UVA(S$5Y``1(1D{NL3GA{06](https://user-images.githubusercontent.com/75127571/157818098-684dc05d-57cb-4746-bb87-958b5080ab1d.png)我什么都不会
+
+### Hardware
 
 ![UVA(S$5Y``1(1D{NL3GA{06](https://user-images.githubusercontent.com/75127571/157818098-684dc05d-57cb-4746-bb87-958b5080ab1d.png)我什么都不会
 
