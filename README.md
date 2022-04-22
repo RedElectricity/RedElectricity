@@ -83,4 +83,5 @@ Discord Server: [赤电的小屋](https://discord.gg/CkvmKSwzAf)
 
 BitCoin: NONE-->
 
+> ## 废物东西 没有用的人
 > # ![UVA(S$5Y``1(1D{NL3GA{06](https://user-images.githubusercontent.com/75127571/157818098-684dc05d-57cb-4746-bb87-958b5080ab1d.png)我什么都不会
