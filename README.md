@@ -2,11 +2,7 @@
 
 ## 简介
 
-> # 已经高三了嘛...
-
 > # ![UVA(S$5Y``1(1D{NL3GA{06](https://user-images.githubusercontent.com/75127571/157818098-684dc05d-57cb-4746-bb87-958b5080ab1d.png)我什么都不会
-
-> Is what defined US?
 
 ## Skill
 
@@ -55,15 +51,4 @@ QQ: ~~[Data Delete]~~
 Telegram: @RedElectricity
 
 Email: redelectricity@outlook.com
-
-Discord Server: [赤电的小屋](https://discord.gg/CkvmKSwzAf)
-
-## Donate ME
-
-<details>
-  <summary>赞助通道 展开查看</summary>
-    爱发电 - https://afdian.net/@RedElectricity</br>
-    <img src="https://user-images.githubusercontent.com/75127571/210086517-6377b41e-be12-4828-80ce-92314b1e0834.jpg">
-</details>
-
 
