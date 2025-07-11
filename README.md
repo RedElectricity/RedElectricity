@@ -2,13 +2,13 @@
 
 ## 简介
 
-> # ![UVA(S$5Y``1(1D{NL3GA{06](https://user-images.githubusercontent.com/75127571/157818098-684dc05d-57cb-4746-bb87-958b5080ab1d.png)我什么都不会
+# 我一直在写代码, 我一直在Refactor. 我一直在写新功能, 我一直在Refactor. 我一直在跑测试, 我一直在Refactor. 我一直在编译, 我一直在Refactor. 大概就是Refactor Life吧嗯.
 
 ## Skill
 
 ### IDE
 
-![IDE-VScode](https://img.shields.io/badge/IDE-VScode-blue)  ![WebIDE](https://img.shields.io/badge/WebIDE-repl.it-lightgrey) ![JetBrains](https://img.shields.io/badge/JetBrains-IDE-blue)
+![IDE-VScode](https://img.shields.io/badge/IDE-VisualStudioCode-blue) ![JetBrains](https://img.shields.io/badge/IDE-Jetbrains-blue)
 
 ### System
 
@@ -16,39 +16,35 @@
 
 ### Language
 
- - C#
- - Rust (FUNDAMENTALS)
- - Golang
- - Python
+ - C#: 大概就是最方便的语言
+ - Golang: 写后端挺好的, 高并发确实不错还有GoFrame框架
+ - Rust: CPP的替代品, 大概就是我不想写cpp吧嗯
+ - Python: 拿来做实验的
  - JavaScript
- - Lua
+ - Lua: 嵌入其他程序的脚本吧
 
 ### Hardware
 
-![UVA(S$5Y``1(1D{NL3GA{06](https://user-images.githubusercontent.com/75127571/157818098-684dc05d-57cb-4746-bb87-958b5080ab1d.png)我什么都不会
+- Pocket C.H.I.P
+- ESP 32 with CAM
 
 ### Devices
 
-Coding with `Lenovo 小新 14 AIR AMD Version` (AMD YES
+Laptop: `HUAWEI Matebook 14`
 
-Listen the Music with `Song Walkman A105`
+Develop under `Windows`+` Alpine Linux`
 
-Develop with `Windows`+`Linux`
+## Work for ...
 
-## Monitoring
-
-![redelectricity's github stats](https://github-readme-stats.vercel.app/api?username=redelectricity&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redelectricity&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime](https://wakatime.com/badge/user/7bbb165f-a32b-491f-90fd-02da3e8c020a.svg)](https://wakatime.com/@7bbb165f-a32b-491f-90fd-02da3e8c020a)
-
-(五毛钱请拆掉摄像头，谢谢)
+- Hermes Language Service
+- DreamZither
 
 ## Contact
+
+<center>Feel free to chat with me.</center>
+
 QQ: ~~[Data Delete]~~
 
 Telegram: @RedElectricity
 
 Email: redelectricity@outlook.com
-
